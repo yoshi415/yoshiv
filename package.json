@@ -10,5 +10,11 @@
   },
   "keywords": [
     "yoshiv"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repo": "yoshi415/yoshiv",
+  "author": {
+    "name": "Yoshio Varney"
+  }
 }
